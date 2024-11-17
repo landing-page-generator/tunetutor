@@ -1,3 +1,7 @@
+# REPO MOVED TO [https://github.com/sundaiclub/tunetutor](https://github.com/sundaiclub/tunetutor).
+
+GOTO https://github.com/sundaiclub/tunetutor
+
 # Tune Tutor
 
 Generate educational jungles using Suno.
